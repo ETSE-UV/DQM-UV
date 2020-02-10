@@ -1,0 +1,95 @@
+General network traffic capture complete
+
+====================================
+| IO Statistics                    |
+|                                  |
+| Duration: 27.4 secs              |
+| Interval: 27.4 secs              |
+|                                  |
+| Col 1: FRAMES                    |
+|     2: BYTES                     |
+|----------------------------------|
+|              |1       |2         |
+| Interval     | FRAMES |   BYTES  |
+|----------------------------------|
+|  0.0 <> 27.4 |  22462 | 30449674 |
+====================================
+Trace of frames
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.007552000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/stream.mpd","2","2537","1077"
+"Mon, 10 Feb 2020 11:27:18 GMT","MP4","0.007091000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/init.mp4",,,"1075"
+"Mon, 10 Feb 2020 11:27:18 GMT","MP4","0.006577000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/init.mp4",,,"989"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.009760000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-1.m4s","5","6650","810"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.063842000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-1.m4s","25","36319","1279"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.032484000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-2.m4s","7","9015","255"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.077432000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-3.m4s","36","52195","1095"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.055691000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-2.m4s","23","33370","1250"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.033995000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-3.m4s","23","32770","650"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.050913000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-4.m4s","23","33157","1037"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.038529000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-5.m4s","23","32925","805"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.210242000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-4.m4s","199","289572","492"
+"Mon, 10 Feb 2020 11:27:18 GMT","HTTP","0.150826000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-5.m4s","176","256796","1296"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.133356000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-6.m4s","186","270368","268"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.137390000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/1/seg-7.m4s","180","262033","693"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.049163000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-6.m4s","23","32734","614"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.032124000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-7.m4s","23","32830","710"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.026491000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-8.m4s","23","33052","932"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.029672000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-9.m4s","23","32850","730"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.035623000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-10.m4s","23","32830","710"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.024910000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-11.m4s","23","32722","602"
+"Mon, 10 Feb 2020 11:27:19 GMT","MP4","0.007379000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/init.mp4",,,"1077"
+"Mon, 10 Feb 2020 11:27:19 GMT","HTTP","0.052575000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-2.m4s","30","43110","770"
+"Mon, 10 Feb 2020 11:27:20 GMT","HTTP","0.284095000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-3.m4s","167","243115","755"
+"Mon, 10 Feb 2020 11:27:24 GMT","HTTP","0.073459000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-12.m4s","23","33129","1009"
+"Mon, 10 Feb 2020 11:27:24 GMT","HTTP","0.048074000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-13.m4s","23","33193","1073"
+"Mon, 10 Feb 2020 11:27:26 GMT","HTTP","1.004488000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-5.m4s","1298","1894369","749"
+"Mon, 10 Feb 2020 11:27:29 GMT","HTTP","0.963221000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-6.m4s","1430","2086528","188"
+"Mon, 10 Feb 2020 11:27:32 GMT","HTTP","0.773886000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-7.m4s","1215","1773789","1349"
+"Mon, 10 Feb 2020 11:27:35 GMT","HTTP","0.105774000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-352.m4s","23","32811","691"
+"Mon, 10 Feb 2020 11:27:35 GMT","HTTP","0.055682000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-353.m4s","23","32778","658"
+"Mon, 10 Feb 2020 11:27:34 GMT","HTTP","0.714577000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-235.m4s","1153","1682429","509"
+"Mon, 10 Feb 2020 11:27:35 GMT","HTTP","0.143104000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-236.m4s","254","369609","229"
+"Mon, 10 Feb 2020 11:27:35 GMT","HTTP","0.153377000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-354.m4s","23","32945","825"
+"Mon, 10 Feb 2020 11:27:36 GMT","HTTP","0.133125000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-355.m4s","23","32742","622"
+"Mon, 10 Feb 2020 11:27:35 GMT","HTTP","0.590827000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-237.m4s","752","1097464","1004"
+"Mon, 10 Feb 2020 11:27:36 GMT","HTTP","0.784871000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-238.m4s","1244","1815311","531"
+"Mon, 10 Feb 2020 11:27:37 GMT","HTTP","0.210749000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-357.m4s","23","32939","819"
+"Mon, 10 Feb 2020 11:27:37 GMT","HTTP","0.143159000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-358.m4s","23","33229","1109"
+"Mon, 10 Feb 2020 11:27:37 GMT","HTTP","0.981159000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-239.m4s","1268","1850054","234"
+"Mon, 10 Feb 2020 11:27:38 GMT","HTTP","0.891188000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-240.m4s","1454","2121860","480"
+"Mon, 10 Feb 2020 11:27:39 GMT","HTTP","0.167050000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-360.m4s","23","32852","732"
+"Mon, 10 Feb 2020 11:27:39 GMT","HTTP","0.131546000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-361.m4s","23","32764","644"
+"Mon, 10 Feb 2020 11:27:38 GMT","HTTP","0.791660000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-241.m4s","1372","2002096","436"
+"Mon, 10 Feb 2020 11:27:40 GMT","HTTP","0.174457000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-362.m4s","23","32935","815"
+"Mon, 10 Feb 2020 11:27:39 GMT","HTTP","0.975360000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-242.m4s","1432","2090676","1416"
+"Mon, 10 Feb 2020 11:27:41 GMT","HTTP","0.651906000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-364.m4s","23","33063","943"
+"Mon, 10 Feb 2020 11:27:40 GMT","HTTP","1.463579000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-243.m4s","1528","2229589","169"
+"Mon, 10 Feb 2020 11:27:42 GMT","HTTP","0.653483000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-244.m4s","943","1376618","1298"
+"Mon, 10 Feb 2020 11:27:42 GMT","HTTP","0.007885000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/video/avc1/7/seg-245.m4s","4","5097","717"
+"Mon, 10 Feb 2020 11:27:42 GMT","HTTP","0.039304000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-366.m4s","23","33345","1225"
+"Mon, 10 Feb 2020 11:27:43 GMT","HTTP","0.081165000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-367.m4s","23","32352","232"
+"Mon, 10 Feb 2020 11:27:43 GMT","HTTP","0.007907000","http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/audio/und/mp4a/seg-368.m4s","2","1883","423"
+<?xml version="1.0" ?>
+<MPD mediaPresentationDuration="PT12M14.160S" minBufferTime="PT2.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="static" xmlns="urn:mpeg:dash:schema:mpd:2011">
+  <!-- Created with Bento4 mp4-dash.py, VERSION=1.8.0-617 -->
+  <Period>
+    <!-- Video -->
+    <AdaptationSet maxHeight="1080" maxWidth="1920" mimeType="video/mp4" minHeight="240" minWidth="320" segmentAlignment="true" startWithSAP="1">
+      <SegmentTemplate duration="3000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation bandwidth="733633" codecs="avc1.64001F" frameRate="25" height="240" id="video/avc1/1" scanType="progressive" width="320"/>
+      <Representation bandwidth="1421348" codecs="avc1.64001F" frameRate="25" height="480" id="video/avc1/2" scanType="progressive" width="640"/>
+      <Representation bandwidth="1908425" codecs="avc1.64001F" frameRate="25" height="480" id="video/avc1/3" scanType="progressive" width="720"/>
+      <Representation bandwidth="2874048" codecs="avc1.64001F" frameRate="25" height="720" id="video/avc1/4" scanType="progressive" width="1280"/>
+      <Representation bandwidth="3840393" codecs="avc1.64001F" frameRate="25" height="720" id="video/avc1/5" scanType="progressive" width="1280"/>
+      <Representation bandwidth="4902755" codecs="avc1.640028" frameRate="25" height="1080" id="video/avc1/6" scanType="progressive" width="1920"/>
+      <Representation bandwidth="5829343" codecs="avc1.640028" frameRate="25" height="1080" id="video/avc1/7" scanType="progressive" width="1920"/>
+    </AdaptationSet>
+    <!-- Audio -->
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <SegmentTemplate duration="2000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation audioSamplingRate="44100" bandwidth="146778" codecs="mp4a.40.2" id="audio/und/mp4a">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
+

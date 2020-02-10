@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<MPD mediaPresentationDuration="PT12M14.160S" minBufferTime="PT2.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="static" xmlns="urn:mpeg:dash:schema:mpd:2011">
+  <!-- Created with Bento4 mp4-dash.py, VERSION=1.8.0-617 -->
+  <Period>
+    <!-- Video -->
+    <AdaptationSet maxHeight="1080" maxWidth="1920" mimeType="video/mp4" minHeight="240" minWidth="320" segmentAlignment="true" startWithSAP="1">
+      <SegmentTemplate duration="3000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation bandwidth="733633" codecs="avc1.64001F" frameRate="25" height="240" id="video/avc1/1" scanType="progressive" width="320"/>
+      <Representation bandwidth="1421348" codecs="avc1.64001F" frameRate="25" height="480" id="video/avc1/2" scanType="progressive" width="640"/>
+      <Representation bandwidth="1908425" codecs="avc1.64001F" frameRate="25" height="480" id="video/avc1/3" scanType="progressive" width="720"/>
+      <Representation bandwidth="2874048" codecs="avc1.64001F" frameRate="25" height="720" id="video/avc1/4" scanType="progressive" width="1280"/>
+      <Representation bandwidth="3840393" codecs="avc1.64001F" frameRate="25" height="720" id="video/avc1/5" scanType="progressive" width="1280"/>
+      <Representation bandwidth="4902755" codecs="avc1.640028" frameRate="25" height="1080" id="video/avc1/6" scanType="progressive" width="1920"/>
+      <Representation bandwidth="5829343" codecs="avc1.640028" frameRate="25" height="1080" id="video/avc1/7" scanType="progressive" width="1920"/>
+    </AdaptationSet>
+    <!-- Audio -->
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <SegmentTemplate duration="2000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation audioSamplingRate="44100" bandwidth="146778" codecs="mp4a.40.2" id="audio/und/mp4a">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
+

@@ -1,0 +1,10 @@
+//Movie samples
+https://gist.github.com/jsturgis/3b19447b304616f18657
+//MPEG-DASH PLAYER ENCRYPTED
+https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd
+//MPEG-DASH PLAYER UNENCRYPTED
+http://players.akamai.com/dash/
+//MPEG-DASH MOVIE
+http://84.88.32.46/mtails/resources/MTAILS/Tears_of_steel_TV/stream.mpd
+//Command to run in console if interfaces are missing
+sc start npcap
