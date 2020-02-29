@@ -21,6 +21,10 @@ git clone https://github.com/ETSE-UV/DM-UV.git
 
 ## How to use
 
+### Demo video
+
+[![Watch the video](https://img.youtube.com/vi/sDITk7oNxLk/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDITk7oNxLk)
+
 ### Total network usage and bandwidth for a single process
 In this case we will only analyze the total network usage and bandwidth of a single process. We won’t be able to analyze mpeg-dash traffic.
 1. We start with the confirmation of the TShark route (it is read from a text file on the program folder).
@@ -88,5 +92,3 @@ First we follow the previous steps up to the 5th. Then we select that we are NOT
 During the development of this tool we needed a single process capable of playing MPEG-DASH videos. After asking for permission, the tool we used was the plugin [NexPlayer™ for Unity](https://github.com/NexPlayer/NexPlayer_Unity_Plugin) 
 
 [NexPlayer](https://www.nexplayersdk.com/)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
