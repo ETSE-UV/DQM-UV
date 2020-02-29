@@ -88,3 +88,5 @@ First we follow the previous steps up to the 5th. Then we select that we are NOT
 During the development of this tool we needed a single process capable of playing MPEG-DASH videos. After asking for permission, the tool we used was the plugin [NexPlayer™ for Unity](https://github.com/NexPlayer/NexPlayer_Unity_Plugin) 
 
 [NexPlayer](https://www.nexplayersdk.com/)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
