@@ -24,7 +24,7 @@ git clone https://github.com/ETSE-UV/DQM-UV.git
 ### Demo video
 Watch a demo video of the tool by clicking on the picture below
 
-[![Watch the video](https://img.youtube.com/vi/sDITk7oNxLk/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDITk7oNxLk)
+[![Watch the video](https://img.youtube.com/vi/rE4-iGGr30A/maxresdefault.jpg)](https://www.youtube.com/watch?v=rE4-iGGr30A)
 
 ### Total network usage and bandwidth for a single process
 In this case we will only analyze the total network usage and bandwidth of a single process. We won’t be able to analyze mpeg-dash traffic.
